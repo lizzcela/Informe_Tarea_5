@@ -192,23 +192,31 @@ Sustituyendo en la segunda ecuación y simplificamos
 
 ![image](https://user-images.githubusercontent.com/105623628/177697840-72cf7bee-d0e1-4b38-913d-38576e7d4693.png)
 
+![image](https://user-images.githubusercontent.com/105623628/177698546-154b6868-9634-4e96-ba3e-a83cc81ec5d4.png)
 
+Las características del determinante es :
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/105623628/177698635-37ca20b2-b936-4066-80ad-391a23d9a77e.png)
+![image](https://user-images.githubusercontent.com/105623628/177698668-dc09365e-7cf3-47c2-9675-fbc48b412174.png)
 
 3.2. RESOLUCIÓN DEL CAPÍTULO 10
+
+SECCIÓN 10–1 El campo magnético
+
+2. En cierto campo magnético, el área de sección transversal es de 0.5 m^2 y el flujo es de 1500 µWb. ¿Cuál es la densidad de flujo?
+
+
+4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de
+flujo en teslas. 
+
+SECCIÓN 10–2 Electromagnetismo
+
+6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
+
+
+
+
+
 
 
 4. VÍDEO
