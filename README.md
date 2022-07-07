@@ -116,24 +116,81 @@ Usando las corrientes de lazos del problema 17:
 ![image](https://user-images.githubusercontent.com/105623628/177687708-9eac60d4-2492-4ca2-9790-bf36594050e8.png)
 
 
+20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29
 
+![image](https://user-images.githubusercontent.com/105623628/177687997-a95c9107-a10e-41ba-b89d-04c10b1f8410.png)
 
+![image](https://user-images.githubusercontent.com/105623628/177688775-41e5f95a-a72f-4c9f-8625-b25c7fe5001b.png)
 
+22. Determine la corriente a través de cada resistor en la figura 9-29.
 
+![image](https://user-images.githubusercontent.com/105623628/177690239-56ee0c7d-2bea-42c2-8cee-a143aea4e581.png)
 
+Problema 21:
 
+![image](https://user-images.githubusercontent.com/105623628/177690834-759023b4-36b3-4e16-8ed5-c48eee6eac64.png)
+![image](https://user-images.githubusercontent.com/105623628/177690891-e39cd929-b2c8-4892-b01f-e379ae71748e.png)
 
+Usando las corrientes de los lazos del problema 21:
 
+![image](https://user-images.githubusercontent.com/105623628/177691230-cd2363b9-1568-448d-9ade-5ffa7cee1870.png)
 
+24. Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
 
+![image](https://user-images.githubusercontent.com/105623628/177691733-dda793c0-9b9c-4143-bef3-543379a231d8.png)
 
+![image](https://user-images.githubusercontent.com/105623628/177692565-ae31c573-065c-406f-b90b-f953f06e93e2.png)
 
+La ecuaciòn de lazo es:
 
+![image](https://user-images.githubusercontent.com/105623628/177691873-b6e1c044-8395-49d7-b22d-978d906f1f91.png) 
+ 
+El determinante característico es:
 
+![image](https://user-images.githubusercontent.com/105623628/177691967-f996e655-e21e-4abe-bb43-02ccdaa96d6f.png)
+![image](https://user-images.githubusercontent.com/105623628/177692375-dd40229e-c835-4d0b-8204-45694a39896f.png)
 
+SECCIÓN 9–4 Método del voltaje en nodos
 
+26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A
+con respecto a tierra. 
 
+La ecuación actual en el nodo A con respecto a la figura es:
 
+![image](https://user-images.githubusercontent.com/105623628/177693375-10c17d31-96a7-4c16-9fde-65972ebdf11a.png)
+
+![image](https://user-images.githubusercontent.com/105623628/177694085-09747422-5162-482f-b752-ba122c00a196.png)
+
+Usando las sustituciones de la ley de Ohm para las corrientes 
+
+![image](https://user-images.githubusercontent.com/105623628/177694770-eb1003ed-476d-4ca9-800e-70a2bf68ec08.png)
+
+Multiplicamos cada termino de la última ecuación por (82)(68)(147)=819,672 para eliminar los denominadores 
+
+![image](https://user-images.githubusercontent.com/105623628/177695531-7a0166aa-428f-4322-aed3-c4de47746b4e.png)
+
+28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los
+voltajes de nodo.
+
+![image](https://user-images.githubusercontent.com/105623628/177696090-3eedfaaf-c627-4d58-b1c3-b0802fcd5b59.png)
+
+![image](https://user-images.githubusercontent.com/105623628/177696633-af0f1661-571d-48ec-aa8b-f81c68309b63.png)
+
+![image](https://user-images.githubusercontent.com/105623628/177696655-9115287a-f9e8-4197-8038-68e346666cf2.png)
+
+Sustituyendo en la primera ecuación y simplificamos 
+
+![image](https://user-images.githubusercontent.com/105623628/177696881-f61e5908-52ea-4ad5-82ac-ed2b07fff1db.png)
+
+Sustituyendo en la segunda ecuación y simplificamos 
+
+![image](https://user-images.githubusercontent.com/105623628/177696978-631efcdd-0d76-461f-8845-dd4266410703.png)
+
+30. Determine el voltaje en los puntos A, B y C en la figura 9-34. 
+
+![image](https://user-images.githubusercontent.com/105623628/177697212-d6fc77b9-5752-4a8f-8208-10c6e8c2c4ec.png)
+
+![image](https://user-images.githubusercontent.com/105623628/177697840-72cf7bee-d0e1-4b38-913d-38576e7d4693.png)
 
 
 
