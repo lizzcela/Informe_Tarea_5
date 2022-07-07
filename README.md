@@ -12,3 +12,9 @@ Trabajo Individual Capítulo 9 y Capítulo 10
 - Determinar que métodos existen para resolver ecuaciones simultáneas de manera manuel, es decir sin el uso de la calculadora.
 - Definir el concepto de flujo magnético dentro del electromagnetismo.
 - Identificar que enuncia la Ley de Faraday con respecto a la inducción electromagnética.
+
+2. MARCO TEÓRICO
+
+2.1. ANÁLISIS DE RAMAS, LAZOS Y NODOS
+
+![image](https://user-images.githubusercontent.com/105623628/177678551-4eca5b02-28a7-408d-941f-442a1b35bb91.png)
