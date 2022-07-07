@@ -18,3 +18,7 @@ Trabajo Individual Capítulo 9 y Capítulo 10
 2.1. ANÁLISIS DE RAMAS, LAZOS Y NODOS
 
 ![image](https://user-images.githubusercontent.com/105623628/177678551-4eca5b02-28a7-408d-941f-442a1b35bb91.png)
+
+2.2. MAGNETISMO Y ELECTROMAGNETISMO
+
+![image](https://user-images.githubusercontent.com/105623628/177678768-be0f7370-e2ca-4aab-b61c-da5ed295f4a5.png)
