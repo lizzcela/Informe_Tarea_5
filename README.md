@@ -73,10 +73,18 @@ El determinante característico se evaluó como 2,35 en el ejemplo 9-4. El deter
 
 ![image](https://user-images.githubusercontent.com/105623628/177683730-3cf94618-b554-4496-8ae8-d5e65ff518a1.png)
 
+SECCIÓN 9–2 Método de la corriente en ramas
 
+12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26
 
+![image](https://user-images.githubusercontent.com/105623628/177683950-5d7b54a8-b446-4653-8449-04e218296774.png)
 
+![image](https://user-images.githubusercontent.com/105623628/177684479-18539856-4bb1-4ea1-b092-78e00b609179.png)
 
+Resolviendo por sustituciòn
+
+![image](https://user-images.githubusercontent.com/105623628/177684517-051f7516-b3dc-4f0b-8f48-06b5a8177c26.png)
+![image](https://user-images.githubusercontent.com/105623628/177684563-7e9e59cd-f522-4506-88d9-bc3402a99c6a.png)
 
 
 
