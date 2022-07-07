@@ -205,15 +205,20 @@ SECCIÓN 10–1 El campo magnético
 
 2. En cierto campo magnético, el área de sección transversal es de 0.5 m^2 y el flujo es de 1500 µWb. ¿Cuál es la densidad de flujo?
 
+![image](https://user-images.githubusercontent.com/105623628/177831331-87097675-bd84-4dfb-8921-ab4ec2f51e6a.png)
 
 4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de
 flujo en teslas. 
+
+![image](https://user-images.githubusercontent.com/105623628/177831371-a8b0b8a0-27e8-4579-aeed-35b8e558e932.png)
 
 SECCIÓN 10–2 Electromagnetismo
 
 6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
 
+![image](https://user-images.githubusercontent.com/105623628/177832146-e1998a07-4dde-4af2-b7f9-4fba3043b089.png)
 
+Invertir la dirección de la corriente también invertirá la dirección del flujo magnético debido a la regla de la mano izquierda.
 
 
 
