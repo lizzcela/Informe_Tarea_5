@@ -22,3 +22,25 @@ Trabajo Individual Capítulo 9 y Capítulo 10
 2.2. MAGNETISMO Y ELECTROMAGNETISMO
 
 ![image](https://user-images.githubusercontent.com/105623628/177678768-be0f7370-e2ca-4aab-b61c-da5ed295f4a5.png)
+
+3. RESOLUCIÓN DE PROBLEMAS
+
+3.1. RESOLUCIÓN DEL CAPÍTULO 9
+
+
+
+3.2. RESOLUCIÓN DEL CAPÍTULO 10
+
+
+4. VÍDEO
+
+
+5. CONCLUSIONES
+
+- Dentro de los métodos para solucionar ecuaciones simultáneas se tiene: la solución por sustitución que netamente puede resolver dos o tres ecuaciones simultaneas en forma estándar mediante una sustitución algebraica, primero determinando una variable en función de las otras. En segundo lugar, está la solución por determinantes en este caso se emplea matrices dependiendo del número de variables y se calcula el determinante de la matriz empleada.
+- El flujo magnético se define como un grupo de líneas de fuerza que van del polo norte al polo sur en un imán. El número de líneas que existen dentro del campo magnético determina el valor del flujo, por lo cual la relación entre el campo magnético y el flujo magnético es que entre más líneas haya más intenso será el campo.
+- Con respecto a la inducción electromagnética la Ley de Faraday enuncia que: el voltaje inducido el voltaje inducido a través de la bobina es igual al número de vueltas de la bobina multiplicado por la tasa de cambio del flujo magnético.
+
+6. BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de circuitos electricos. México: Pearson.
