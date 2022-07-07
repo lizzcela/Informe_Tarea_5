@@ -205,6 +205,8 @@ SECCIÓN 10–1 El campo magnético
 
 2. En cierto campo magnético, el área de sección transversal es de 0.5 m^2 y el flujo es de 1500 µWb. ¿Cuál es la densidad de flujo?
 
+![image](https://user-images.githubusercontent.com/105623628/177842144-5ee3c4ff-6ca5-499a-8e36-0180f3042de8.png)
+
 ![image](https://user-images.githubusercontent.com/105623628/177831331-87097675-bd84-4dfb-8921-ab4ec2f51e6a.png)
 
 4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de
@@ -220,9 +222,53 @@ SECCIÓN 10–2 Electromagnetismo
 
 Invertir la dirección de la corriente también invertirá la dirección del flujo magnético debido a la regla de la mano izquierda.
 
+8. Determine la reluctancia de un material con longitud de 0.28m y área de sección transversal de 0.08m^2si la permeabilidad absoluta es de 150×10^(-7)Wb/At*m.
 
+![image](https://user-images.githubusercontent.com/105623628/177866948-6a2d9652-e5c8-4fb2-8c16-5ae40ed6900b.png)
 
+10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
 
+Es un dispositivo electromagnético usado para aplicar una fuerza mecánica lineal en respuesta al paso de una corriente a través del embobinado.
+
+12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
+
+El símbolo se conecta para el botón del relé.
+
+SECCIÓN 10–4 Histéresis magnética
+
+14. Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0,2 m?
+
+![image](https://user-images.githubusercontent.com/105623628/177867560-fa0cc23a-f62b-44f8-a69d-7530d621e44a.png)
+
+16. En la figura 10-44, hay 500 vueltas. Determine 
+![image](https://user-images.githubusercontent.com/105623628/177867676-381d27f6-c50a-4961-a158-793e774ebce1.png)
+
+![image](https://user-images.githubusercontent.com/105623628/177867706-dd97ca29-6781-45df-85d1-999fba7a0f6f.png)
+
+![image](https://user-images.githubusercontent.com/105623628/177867739-a6ccd496-371b-4c87-a1ef-21326a42a760.png)
+
+SECCIÓN 10–5 Inducción electromagnética
+
+18. De acuerdo con la ley de Faraday, ¿qué sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
+
+Se induce voltaje cero.
+
+20. Un campo magnético cambia a razón de 3500 10 3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
+
+El voltaje inducido se incrementa.
+
+SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
+
+22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+
+![image](https://user-images.githubusercontent.com/105623628/177868159-655bfcb6-2ade-4fbe-a574-37eaf481cb33.png)
+
+Se ejerce una fuerza en el conductor cuando existe corriente.
+
+ 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje
+de cd de salida a su pico (alcanza un máximo)?
+
+120 cada segundo.
 
 4. VÍDEO
 
