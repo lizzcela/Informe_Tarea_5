@@ -86,11 +86,34 @@ Resolviendo por sustituciòn
 ![image](https://user-images.githubusercontent.com/105623628/177684517-051f7516-b3dc-4f0b-8f48-06b5a8177c26.png)
 ![image](https://user-images.githubusercontent.com/105623628/177684563-7e9e59cd-f522-4506-88d9-bc3402a99c6a.png)
 
+14. Determine la corriente a través de cada resistor mostrado en la figura 9-27
 
+![image](https://user-images.githubusercontent.com/105623628/177684799-3c541404-0a8c-4751-b6b1-2cc60424f4b4.png)
 
+![image](https://user-images.githubusercontent.com/105623628/177684845-1791f006-10bf-464c-a2c2-f02beca1f076.png)
+![image](https://user-images.githubusercontent.com/105623628/177684979-267c3d9f-ef58-4863-b2cc-a9b713a1b1e7.png)(Fuente Actual)
 
+SECCIÓN 9–3 Método de la corriente en lazos
 
+16. Escriba el determinante característico para las ecuaciones:
 
+![image](https://user-images.githubusercontent.com/105623628/177685901-39f2bed9-4bab-4890-a427-5a970f99c94e.png)
+
+La caracterìstica del determiante es:
+
+![image](https://user-images.githubusercontent.com/105623628/177685931-c99c4890-7035-4ccb-83df-6fbaebf9a5bd.png)
+
+18. Determine las corrientes de rama en la figura 9-28.
+
+![image](https://user-images.githubusercontent.com/105623628/177686968-972c303c-67a4-4e0b-b787-6aab310a9304.png)
+
+Problema 17:
+
+![image](https://user-images.githubusercontent.com/105623628/177687667-f488ec1f-dc2a-4d3d-9a78-176f28d1f301.png)
+
+Usando las corrientes de lazos del problema 17:
+
+![image](https://user-images.githubusercontent.com/105623628/177687708-9eac60d4-2492-4ca2-9790-bf36594050e8.png)
 
 
 
